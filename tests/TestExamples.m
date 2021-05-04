@@ -14,6 +14,7 @@ classdef TestExamples < matlab.unittest.TestCase
     %     B) The 5th test is included for completeness, but is commented 
     %        out to illustrate missing code coverage in continous
     %        integration (CI) systems
+    % Test%
 
     % Copyright 2021 The MathWorks, Inc.
 
